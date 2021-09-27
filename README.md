@@ -14,7 +14,7 @@
   
   #
   
-### Stacks / Languages
+### Stacks
 <div style="display: inline_block"><br>
   <p align = "center">
     <img align="center" alt="Juan-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
