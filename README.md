@@ -10,9 +10,9 @@
 
 ### Stats
 <div align="center">
-  <a href="https://github.com/BlyBR">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlyBR&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlyBR&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <a href="https://github.com/juanmangueira">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juanmangueira&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmangueira&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
   
   #
@@ -35,11 +35,11 @@
 ### Contact
 <div> 
   <p align = "center">
-    <a href="https://instagram.com/juan_malves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/juanmangueiraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/juanmangueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:d.juan.alves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:juanmangueiraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/BlyBR/BlyBR/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/juanmangueira/JuanMangueira/blob/output/github-contribution-grid-snake.svg)
     
   </p>
 </div>
