@@ -1,7 +1,7 @@
 ### Hi, i'm Juan! Welcome 👋
 
 - 👨‍🎓 I'm a Software Engineer Student at University of Brasília, Brazil
-- 🔭 I’m currently working on People Analytics on Falconi
+- 🔭 I’m currently working on People Analytics at Falconi
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like açaí with fries. 
