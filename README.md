@@ -1,8 +1,8 @@
 ### Hi, i'm Juan! Welcome 👋
 
 - 👨‍🎓 I'm a Software Engineer Student at University of Brasília, Brazil
-- 🔭 I’m currently working on Gamification and Typescript/Front-end
-- 🌱 I’m currently learning Python/Back-end
+- 🔭 I’m currently working on Data Analytics on Falconi
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like açaí with fries. 
 
