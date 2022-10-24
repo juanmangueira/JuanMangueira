@@ -20,7 +20,7 @@
 ### Stacks
 <div style="display: inline_block"><br>
   <p align = "center">
-    <img align="center" alt="Juan-dbt" height="30" width="40" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png">
+    <img align="center" alt="Juan-dbt" height="40" width="40" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png">
     <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Juan-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
     <img align="center" alt="Juan-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
