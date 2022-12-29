@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm a Software Engineer Student at University of Brasília, Brazil
 - 🔭 I’m currently working as Analytics Engineering Intern on People Analytics at Falconi
-- 🌱 I’m currently learning Python & SQL, with dbt.
+- 🌱 I’m currently learning Python & SQL, with dbt, great_expectations, on platform Google Cloud.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like açaí with fries. 
 
