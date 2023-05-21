@@ -1,8 +1,8 @@
 ### Hi, i'm Juan! Welcome 👋
 
 - 👨‍🎓 I'm a Software Engineer Student at University of Brasília, Brazil
-- 🔭 I’m currently working as Analytics Engineering Intern on People Analytics at Falconi
-- 🌱 I’m currently learning Python & SQL, with dbt, great_expectations, on platform Google Cloud.
+- 🔭 I’m currently open to work as a Data Analyst and Analytics Engineer
+- 🌱 I’m currently learning Python & SQL, with dbt, great_expectations, in Google Cloud Platform.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like açaí with fries. 
 
