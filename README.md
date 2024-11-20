@@ -1,6 +1,6 @@
 ### Hi, i'm Juan! Welcome 👋
 
-- 👨‍🎓 I'm a Software Engineer Student at University of Brasília, Brazil
+- 👨‍🎓 I'm a Data Science Student at Descomplica & Business Student at University of Brasília, Brazil
 - 🔭 I’m currently open to work as a Data and Analytics Engineer
 - 🌱 I’m currently learning Python & SQL, dbt, S3, Athena and RDS in AWS
 - 😄 Pronouns: He/him
