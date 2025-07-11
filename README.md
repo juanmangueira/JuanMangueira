@@ -22,7 +22,8 @@
     <img align="center" alt="gcp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
     <img align="center" alt="aws" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
     <img align="center" alt="flask" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
-    <img align="center" alt="flask" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg">
+    <img align="center" alt="streamlit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg">
+    <img align="center" alt="dbt" height="60" width="80" src="/assets/dbt-bit/standalone.png">
           
   </p>
 </div>   
