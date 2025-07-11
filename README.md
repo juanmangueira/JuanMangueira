@@ -14,16 +14,16 @@
 
   #
   
-### Stacks
+### Technologies
 <div style="display: inline_block"><br>
   <p align = "left">
     <img align="center" alt="python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="dbt" height="60" width="80" src="https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png">
+    <img align="center" alt="dbt" height="60" width="60" src="/assets/dbt-bit-standalone.png">
+    <img align="center" alt="dbt" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" >      
+    <img align="center" alt="streamlit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg">
+    <img align="center" alt="flask" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
     <img align="center" alt="gcp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
     <img align="center" alt="aws" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img align="center" alt="flask" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
-    <img align="center" alt="streamlit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg">
-    <img align="center" alt="dbt" height="60" width="80" src="/assets/dbt-bit/standalone.png">
           
   </p>
 </div>   
