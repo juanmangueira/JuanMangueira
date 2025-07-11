@@ -1,6 +1,6 @@
 ### Hi, i'm Juan! Welcome 👋
 
-- 🔭 I’m currently work as a Data and Analytics Engineer
+- 🔭 I’m currently working as a Data and Analytics Engineer at a Oby Capital, Asset
 - 🌱 I work with Python, SQL, dbt, flask, streamlit, AWS, GCP and others
 - 👨‍🎓 I've studied Data Science and Business Administration
 - 😄 Pronouns: He/him
