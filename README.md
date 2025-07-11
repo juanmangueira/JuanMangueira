@@ -4,37 +4,38 @@
 - 🌱 I work with Python, SQL, dbt, flask, streamlit, AWS, GCP and others
 - 👨‍🎓 I've studied Data Science and Business Administration
 - 😄 Pronouns: He/him
-
 #
 ### Stats
-<div align="center">
+<div align="left">
  <a href="https://github.com/juanmangueira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juanmangueira&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmangueira&layout=compact&theme=discord_old_blurple"/>
-</div>
-  
+</div>  
+
   #
   
 ### Stacks
 <div style="display: inline_block"><br>
-  <p align = "center">
-    <img align="center" alt="Juan-dbt" height="30" width="30" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png">
-    <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Juan-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-    <img align="center" alt="Juan-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-    <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <p align = "left">
+    <img align="center" alt="python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="dbt" height="60" width="80" src="https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png">
+    <img align="center" alt="gcp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
+    <img align="center" alt="aws" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img align="center" alt="flask" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
+    <img align="center" alt="flask" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg">
+          
   </p>
-</div> 
-  
-  #
+</div>   
 
+#
+  
 ### Contact
-<div> 
-  <p align = "center">
-    <a href="https://www.linkedin.com/in/juanmangueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:juanmangueiraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">       <a href = "https://wa.me/5561983654753?text=Oi, Juan!%20Encontrei%20você%20no%20Github.%20Queria%20conversar.%20Podemos%20marcar%20um%20horário?"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-    
+<div style="display: inline_block"><br>
+  <p align = "left">
+   <a href="https://www.linkedin.com/in/juanmangueira" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:juanmangueira@outlook.com">
+     <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank">
   </a>
   
   ![Snake animation](https://github.com/juanmangueira/JuanMangueira/blob/output/github-contribution-grid-snake.svg)
