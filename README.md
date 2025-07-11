@@ -1,13 +1,11 @@
 ### Hi, i'm Juan! Welcome 👋
 
-- 👨‍🎓 I'm a Data Science Student at Descomplica & Business Student at University of Brasília, Brazil
-- 🔭 I’m currently open to work as a Data and Analytics Engineer
-- 🌱 I’m currently learning Python & SQL, dbt, S3, Athena and RDS in AWS
+- 🔭 I’m currently work as a Data and Analytics Engineer
+- 🌱 I work with Python, SQL, dbt, flask, streamlit, AWS, GCP and others
+- 👨‍🎓 I've studied Data Science and Business Administration
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I like açaí with fries. 
 
 #
-
 ### Stats
 <div align="center">
  <a href="https://github.com/juanmangueira">
